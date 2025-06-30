@@ -16,12 +16,13 @@ delete_option('formagent_wp_agent_id');
 
 // For multisite installations
 if (is_multisite()) {
-    global $wpdb;
+    $sites = get_sites(array(
+        'fields' => 'ids',
+        'number' => 0
+    ));
     
-    $blog_ids = $wpdb->get_col("SELECT blog_id FROM $wpdb->blogs");
-    
-    foreach ($blog_ids as $blog_id) {
-        switch_to_blog($blog_id);
+    foreach ($sites as $site_id) {
+        switch_to_blog($site_id);
         delete_option('formagent_wp_agent_id');
         restore_current_blog();
     }

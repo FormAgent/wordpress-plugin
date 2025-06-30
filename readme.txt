@@ -1,7 +1,7 @@
 === FormAgent.ai Integration ===
 Contributors: FormAgent
-Official link: https://formagent.ai
-Tags: chat, chatbot, ai, customer support, live chat, formagent
+Donate link: https://formagent.ai
+Tags: chat, chatbot, ai, customer support, live chat
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.4
