@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FormAgent WP\n"
+"POT-Creation-Date: 2024-06-23 00:00+0000\n"
+"PO-Revision-Date: 2024-06-23 00:00+0000\n"
+"Last-Translator: suhao <suhao@example.com>\n"
+"Language-Team: suhao <suhao@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: AI\n"
+
+msgid "FormAgent.ai Settings"
+msgstr "FormAgent.ai Settings"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Save Settings"
+msgstr "Save Settings"
+
+msgid "Instructions"
+msgstr "Instructions"
+
+msgid "Enter your Agent ID above and save."
+msgstr "Enter your Agent ID above and save."
+
+msgid "The FormAgent.ai chat widget will be automatically embedded on the frontend."
+msgstr "The FormAgent.ai chat widget will be automatically embedded on the frontend."
+
+msgid "Official Docs:"
+msgstr "Official Docs:"
+
+msgid "Agent ID"
+msgstr "Agent ID"
+
+msgid "Please get your Agent ID from the FormAgent.ai dashboard."
+msgstr "Please get your Agent ID from the FormAgent.ai dashboard." 
